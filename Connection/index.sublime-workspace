@@ -1,0 +1,223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"count"
+			],
+			[
+				"d",
+				"document"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Desktop/apache/htdocs/Html&php/mytest.html",
+		"/C/Users/user/Desktop/apache/htdocs/Html&php/user register.html",
+		"/C/Users/user/Desktop/apache/htdocs/Html&php/landingpage.php",
+		"/C/Users/user/Desktop/apache/htdocs/Html&php/user login.html",
+		"/C/Users/user/Desktop/apache/htdocs/Html&php/register.php",
+		"/C/Users/user/Desktop/apache/htdocs/Assignment 1/division.php",
+		"/C/Users/user/Desktop/apache/htdocs/Assignment 1/division.html",
+		"/C/Users/user/Desktop/apache/htdocs/Assignment 1/subtraction.php",
+		"/C/Users/user/Desktop/apache/htdocs/Assignment 1/subtraction.html",
+		"/C/Users/user/Desktop/apache/htdocs/Assignment 1/multiplication.php",
+		"/C/Users/user/Desktop/apache/htdocs/Assignment 1/multiplication.html",
+		"/C/Users/user/Desktop/apache/htdocs/Assignment 1/addition.html",
+		"/C/Users/user/Desktop/apache/htdocs/Assignment 1/addition.php",
+		"/C/Users/user/Desktop/apache/htdocs/Assignment 1/operation.html",
+		"/C/Users/user/Desktop/apache/htdocs/Html&php/sum.php",
+		"/C/Users/user/Desktop/apache/htdocs/Html&php/index.html",
+		"/C/Users/user/Desktop/apache/htdocs/Html&php/operation.html",
+		"/C/Users/user/Desktop/apache/htdocs/BIT 2024/one.php",
+		"/C/Users/user/Desktop/apache/htdocs/BIT 2024/printname.php",
+		"/C/Users/user/Desktop/apache/htdocs/BIT 2024/conditionif.php",
+		"/C/Users/user/Desktop/apache/htdocs/BIT 2024/whileloop.php",
+		"/C/Users/user/Desktop/apache/htdocs/BIT 2024/do whileloop.php",
+		"/C/Users/user/Desktop/apache/htdocs/BIT 2024/for loop.php",
+		"/C/Users/user/Desktop/apache/htdocs/BIT 2024/createtable.php",
+		"/C/Users/user/Desktop/Diane-web -assignment/chris-web -assignment/special tags/list.html",
+		"/C/Users/user/Desktop/Diane-web -assignment/chris-web -assignment/special tags/home.html",
+		"/C/Users/user/Desktop/Diane-web -assignment/chris-web -assignment/special tags/table.html",
+		"/C/Users/user/Desktop/Diane-web -assignment/chris-web -assignment/special tags/radio.html",
+		"/C/Users/user/Desktop/Diane-web -assignment/chris-web -assignment/special tags/form.html",
+		"/C/Users/user/Desktop/Diane-web -assignment/chris-web -assignment/links/home.html",
+		"/C/Users/user/Desktop/Diane-web -assignment/chris-web -assignment/links/contact us.html",
+		"/C/Users/user/Desktop/Diane-web -assignment/chris-web -assignment/links/about us.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/Externaljs.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/currentdetails.js",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/multiplication.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/formvalidation.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/using arrays.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/object constractor.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/sam.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/Myscript.js",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/script index.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/index.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/main.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/variable.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/change backgroundcolor.html.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/variable.h",
+		"/C/Users/user/Desktop/222004455 WEB TECHNOLOGY GROUP1/CSSPRACTICAL.css",
+		"/C/Users/user/Desktop/222004455 WEB TECHNOLOGY GROUP1/Basic.html",
+		"/C/Users/user/Desktop/ALL WEB TECHNOLOGY/Javascript/Script.html",
+		"/C/Users/user/Desktop/document.html",
+		"/C/Users/user/Desktop/hello.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 49.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
